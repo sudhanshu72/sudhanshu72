@@ -17,9 +17,9 @@ I build full-stack AI systems end-to-end &mdash; from LLM agents and clustering 
 
 ### Pinned projects
 
-- 🤖 [**Multi-Agent Stock Analysis**](https://github.com/sudhanshu72/inputStockName) &mdash; LangChain agents resolving NSE/BSE tickers, gathering metrics & news, and synthesizing analyst reports via Groq.
-- 🍕 [**Neo Pizza Sagar AI**](https://github.com/sudhanshu72/neo-pizza-bot) &mdash; A Streamlit + Groq chatbot for a wood-fired pizza place; domain-grounded responses with prompt-level guardrails.
-- 🛠️ Coming soon &mdash; an agentic lead-capture chatbot (LangGraph state machine + Pydantic + LangSmith) and the optimization model from my M.Tech thesis (MILP-based reverse logistics).
+- 🟢 [**KeaBuilder Lead-Capture Agent**](https://github.com/sudhanshu72/keabuilder-lead-agent) &mdash; an agentic sales chatbot built as a **LangGraph** state machine with **Pydantic**-validated structured outputs and **LangSmith** observability. Drives cold leads from greeting through qualification, objection handling, and call booking; cheap classifier + primary responder split for cost control.
+- 🤖 [**Multi-Agent Stock Analysis**](https://github.com/sudhanshu72/inputStockName) &mdash; LangChain agents that resolve NSE/BSE tickers, pull live metrics & news, and synthesize analyst-style reports via Groq.
+- 🍕 [**Neo Pizza Sagar AI**](https://github.com/sudhanshu72/neo-pizza-bot) &mdash; a Streamlit + Groq chatbot for a wood-fired pizza place; domain-grounded responses with prompt-level guardrails.
 
 ### Background, briefly
 
