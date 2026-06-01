@@ -1,6 +1,6 @@
 # Hi, I'm Sudhanshu 👋
 
-**AI/ML Engineer** at NTWIST &middot; **M.Tech, IIT Hyderabad** (AI/ML & Optimization specialization)
+**AI/ML Engineer** at NTWIST &middot; **M.Tech, E-waste Management (Optimization specialization)** &middot; IIT Hyderabad
 
 I build full-stack AI systems end-to-end &mdash; from LLM agents and clustering models to the Node.js / MongoDB pipelines that serve them. Comfortable everywhere from messy industrial telemetry data to LangGraph state machines.
 
@@ -24,7 +24,7 @@ I build full-stack AI systems end-to-end &mdash; from LLM agents and clustering 
 ### Background, briefly
 
 - 2024-now &mdash; AI/ML Engineer, NTWIST
-- 2022-2024 &mdash; M.Tech, IIT Hyderabad &middot; CGPA 8.92 &middot; Thesis on closed-loop reverse logistics optimization (MILP)
+- 2022-2024 &mdash; M.Tech, E-waste Management (Optimization specialization), IIT Hyderabad &middot; CGPA 8.92 &middot; Thesis on closed-loop reverse logistics optimization (MILP)
 - 2018-2020 &mdash; Assistant Manager (Operations), Vedanta Alumina &mdash; reliability and root-cause analysis on heavy industrial machinery
 - GATE 2022: AIR 1185 in Mechanical Engineering (top 1.4% of ~86,000 candidates)
 
